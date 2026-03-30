@@ -1,0 +1,26 @@
+# Ignore video files
+*.mp4
+*.avi
+*.mov
+*.wmv
+
+# .NET build folders
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Logs & temp files
+*.log
+*.tmp
+
+# Rider / VSCode
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
